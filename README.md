@@ -1,3 +1,9 @@
+<p align="center">
+  ⭐️ If you like log_symbols, give it a star! ⭐️
+</p>
+
+<img src="https://raw.githubusercontent.com/deno-log-symbols/log-symbols/main/log-symbols.png" align="right" />
+
 # log_symbols
 
 Colored symbols for various log levels for Deno.
