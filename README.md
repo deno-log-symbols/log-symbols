@@ -11,19 +11,23 @@ Colored symbols for various log levels for Deno.
 ## 🔧 How to use
 
 ```js
-import { logSymbols } from 'https://deno.land/x/log_symbols@v0.2.0/mod.ts';
+import { logSymbols } from 'https://deno.land/x/log_symbols@v0.1.0/mod.ts';
 ```
 
 ## 💡 Usage
 
 ```ts
-import { logSymbols } from 'https://deno.land/x/log_symbols@v0.2.0/mod.ts';
+import { logSymbols } from 'https://deno.land/x/log_symbols@v0.1.0/mod.ts';
 
 console.log(logSymbols.info, 'info');
 console.log(logSymbols.success, 'success');
 console.log(logSymbols.warning, 'warning');
 console.log(logSymbols.error, 'error');
 ```
+
+## 📜 Changelog
+
+Details changes for each release are documented in the [CHANGELOG.md](https://github.com/deno-log-symbols/log-symbols/blob/main/CHANGELOG.md).
 
 ## ❗ Issues
 
