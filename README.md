@@ -2,7 +2,7 @@
   ⭐️ If you like log_symbols, give it a star! ⭐️
 </p>
 
-<img src="https://raw.githubusercontent.com/deno-log-symbols/log-symbols/main/log-symbols.png" align="right" />
+<img src="https://raw.githubusercontent.com/deno-log-symbols/log-symbols/main/log-symbols.png" width="300" align="right" />
 
 # log_symbols
 
